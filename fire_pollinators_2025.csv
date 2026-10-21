@@ -1,0 +1,38 @@
+﻿Round,Park,Treatment,Pollinator,Abundance,Activity
+1,Inwood,Burned1,Non-syrphid fly,1,Narcissus spp.
+1,Inwood,Unburned1,Bombus spp.,1,Vinca minor
+1,Inwood,Unburned1,Small wild bee,1,Vinca minor
+1,Inwood,Burned2,NA,0,NA
+1,Inwood,Unburned2,Bombus spp.,2,Nest Searching
+2,Inwood,Burned1,NA,0,NA
+2,Inwood,Unburned1,NA,0,NA
+2,Inwood,Burned2,Small wild bee,2,Lysimachia quadrifolia
+2,Inwood,Unburned2,NA,0,NA
+2,Prospect,Burned,Bombus spp.,1,Nest Searching
+2,Prospect,Unburned,NA,0,NA
+3,Inwood,Burned1,Bombus spp.,2,Solanum americana
+3,Inwood,Burned1,Syrphid fly,2,Solanum americana
+3,Inwood,Burned1,Small wild bee,1,Solanum americana
+3,Inwood,Burned1,Wasp,1,Percica virginiana
+3,Inwood,Burned1,Wasp,1,Eurybia divacaria
+3,Inwood,Unburned1,Wasp,1,Alliaria petiolata
+3,Inwood,Burned2,Wasp,1,Commolena communis
+3,Inwood,Burned2,Small wild bee,6,Eutrochium purpureum
+3,Inwood,Burned2,Small wild bee,4,Eurybia divacaria
+3,Inwood,Burned2,Lepidoptera,3,Eutrochium purpureum
+3,Inwood,Burned2,Syrphid fly,2,Eurybia divacaria
+3,Inwood,Burned2,Wasp,1,Eutrochium purpureum
+3,Inwood,Burned2,Bombus spp.,2,Eutrochium purpureum
+3,Inwood,Unburned2,NA,0,NA
+3,Prospect,Burned,Bombus spp.,6,Chamaecrista fasciculata
+3,Prospect,Burned,Bombus spp.,1,Solanum americana
+3,Prospect,Burned,Bombus spp.,8,Verbena urticifolia
+3,Prospect,Burned,Lepidoptera,5,Verbena urticifolia
+3,Prospect,Burned,Lepidoptera,2,Phytolacca bogotensis
+3,Prospect,Burned,Small wild bee,7,Verbena urticifolia
+3,Prospect,Burned,Small wild bee,4,Rudbeckia hirta
+3,Prospect,Burned,Small wild bee,1,Phytolacca bogotensis
+3,Prospect,Burned,Syrphid fly,2,Verbena urticifolia
+3,Prospect,Burned,Syrphid fly,3,Rudbeckia hirta
+3,Prospect,Burned,Syrphid fly,1,Phytolacca bogotensis
+3,Prospect,Burned,Wasp,3,Phytolacca bogotensis
